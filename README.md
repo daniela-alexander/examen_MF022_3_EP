@@ -1,6 +1,6 @@
 # # Proyecto MF0223 - Ejercicios Prácticos
 
-Este repositorio contiene los ejercicios prácticos realizados como parte del módulo MF0223. A continuación, se describen los ejercicios y las soluciones implementadas en cada carpeta.
+Este repositorio contiene los ejercicios prácticos realizados. A continuación, se describen los ejercicios y las soluciones implementadas en cada carpeta.
 
 ---
 
