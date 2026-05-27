@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+ srv_dev_XX:
+  image: ubuntu:22.04
+  container_name: srv_dev_XX
+  tty: true
+  volumes:
+   - datos_devXX:/var/empresa
+  networks:
+   - net_dev_XX
+  ports:
+   - "8090:3000"
+
+volumes:
+ datos_devXX:
+
+networks:
+ net_dev_XX:
